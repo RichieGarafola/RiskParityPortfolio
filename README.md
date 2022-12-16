@@ -96,3 +96,5 @@ MSFT dominates with a 15.3% weight. That’s because to reach the minimum return
 They’re no longer equal. That’s because risk parity figured out the optimal risk weights to hit the minimum portfolio return constraint.
 
 Risk parity is a great way to manage a predictable portfolio that performs consistently in most markets.
+
+<!-- Richie Garafola 12/16/222 -->
